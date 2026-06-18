@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SSLPinningServiceApplication {
+public class SSLPinningServiceApp {
 
     public static void main(String[] args) {
-        SpringApplication.run(SSLPinningServiceApplication.class, args);
+        SpringApplication.run(SSLPinningServiceApp.class, args);
     }
 }
 
